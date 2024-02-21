@@ -1,0 +1,1 @@
+# kalkulator20k
